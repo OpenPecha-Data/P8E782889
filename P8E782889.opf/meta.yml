@@ -1,0 +1,31 @@
+id: P8E782889
+initial_creation_type: input
+source_metadata:
+  title: Fifteenth Karmapa Series
+  language: en
+  description: 'Texts by the Fifteenth Karmapa, Khakhyab Dorje (mkha'' khyab rdo rje,
+    1870/1–1921/2):'
+  volume:
+    284143ffc9394cbf98576b82ae8779eb:
+      title: Advice for Urgyen Tsomo
+      parent: Advice
+    19fcf2e417a342f085c9e80194f5bfa9:
+      title: Verso Inscription on an Image of the Pure Land of Great Bliss
+      parent: Inscriptions
+    2c975210f0c24abea3097ee7b6c2b106:
+      title: A Prayer to Khandro Yeshé Tsogyal
+      parent: Prayers
+    865a2d17fc8c422b8f04b0bfbdc3da38:
+      title: Aspiration for the Country’s Welfare
+      parent: Prayers
+    232c9962451742bd894a270c7d35af2a:
+      title: Prayer
+      parent: Prayers
+    833db2ad42ac4b1180944328a4714053:
+      title: Prayer to Buddha Amitābha
+      parent: Prayers
+    911b684c869647faaa25522cc3d9f03a:
+      title: Prayer to Karmapa Khakyab Dorje
+      parent: Prayers
+created_at: '2022-02-28T23:13:26.680534'
+last_modified_at: '2022-02-28T23:13:26.680540'
